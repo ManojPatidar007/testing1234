@@ -1,0 +1,4 @@
+git clone   //use git reposatery to local system to import from server(git clone thhps//:....)
+cd  /change directory( cd desktop)
+git status   //to know about any update... if any then provide some info
+git add   //use for commit some file(git add abc.text)
