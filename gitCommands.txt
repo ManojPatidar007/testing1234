@@ -5,7 +5,7 @@ git config --global user.name "manojpatidar"   //for configur name
 git config --global user.email "email"    //for configur email
    
 <!--commands for add new file and commit successfully on server-->>
-1   git add   //use for commit some file(git add abc.text)
-2   git commit -m 'any message'  //using for commit but will not reflect to server still
-3   git pust   //this will finally reflecting on server    
-4
+1   git add   //use for commit some file(git add abc.text). Udes once when we are adding any file first time
+2   git commit -m 'any message'  //using for commit but will not reflect to server still.
+3   git push   //this will finally reflecting on server    
+4   git pull   // used for import changes which are not containing local machin.
