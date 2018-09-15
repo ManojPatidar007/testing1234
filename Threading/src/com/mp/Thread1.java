@@ -1,10 +1,10 @@
 package com.mp;
 
-public class Thread1 implements Runnable {
+public class Thread1 extends Thread {
 
 	@Override
 	public void run() {
-		// TODO Auto-generated method stub
+		System.out.println("Thread 1 is running"+Thread.currentThread().getName());
 
 	}
 
