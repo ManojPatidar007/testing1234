@@ -9,3 +9,9 @@ git config --global user.email "email"    //for configur email
 2   git commit -m 'any message'  //using for commit but will not reflect to server still.
 3   git push   //this will finally reflecting on server    
 4   git pull   // used for import changes which are not containing local machin.
+
+
+<!--shortcut-->
+
+1 git add . ///will add all the changes.
+2 git commit -a -m "comment"   //will commit all changes
